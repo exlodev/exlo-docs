@@ -1,8 +1,8 @@
 # Documentation Update
 
-> docs(api): add architecture decision record
+> docs(architecture): update changelog
 
-Last updated: 2026-01-30T04:56:19.205Z
+Last updated: 2026-01-30T05:00:34.849Z
 
 ## Overview
 
