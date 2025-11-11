@@ -1,8 +1,8 @@
 # Documentation Update
 
-> docs(guides): document deployment process
+> docs(guides): document database schema changes
 
-Last updated: 2026-01-30T04:54:50.134Z
+Last updated: 2026-01-30T05:01:49.833Z
 
 ## Overview
 
