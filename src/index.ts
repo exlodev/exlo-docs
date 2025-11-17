@@ -1,6 +1,6 @@
 // Auto-generated for demo
-// Commit: fix(guides): fix race condition in payment processor
-// Generated: 2026-01-30T04:52:46.796Z
+// Commit: refactor(runbooks): simplify conditional rendering logic
+// Generated: 2026-01-30T04:52:56.296Z
 
 export const placeholder = true;
 
