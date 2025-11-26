@@ -1,8 +1,8 @@
 # Documentation Update
 
-> docs(architecture): add troubleshooting guide
+> docs(guides): update security guidelines
 
-Last updated: 2026-01-30T05:03:30.127Z
+Last updated: 2026-01-30T05:05:33.654Z
 
 ## Overview
 
