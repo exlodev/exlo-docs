@@ -1,6 +1,6 @@
 // Auto-generated for demo
-// Commit: refactor(api): simplify conditional rendering logic
-// Generated: 2026-01-30T04:52:09.908Z
+// Commit: refactor(runbooks): improve type definitions
+// Generated: 2026-01-30T04:52:11.815Z
 
 export const placeholder = true;
 
