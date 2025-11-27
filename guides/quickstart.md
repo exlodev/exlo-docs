@@ -1,8 +1,8 @@
 # Documentation Update
 
-> docs(guides): document deployment process
+> docs(guides): update API documentation
 
-Last updated: 2026-01-30T04:54:50.133Z
+Last updated: 2026-01-30T04:57:21.134Z
 
 ## Overview
 
