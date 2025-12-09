@@ -1,6 +1,6 @@
 // Auto-generated for demo
-// Commit: feat(api): add email notification templates
-// Generated: 2026-01-30T04:52:15.563Z
+// Commit: fix(runbooks): handle special characters in search query
+// Generated: 2026-01-30T04:52:17.473Z
 
 export const placeholder = true;
 
