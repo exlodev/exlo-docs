@@ -1,8 +1,8 @@
 # Documentation Update
 
-> docs(guides): document database schema changes
+> docs(architecture): add troubleshooting guide
 
-Last updated: 2026-01-30T05:01:49.833Z
+Last updated: 2026-01-30T05:03:30.128Z
 
 ## Overview
 

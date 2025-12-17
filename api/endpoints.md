@@ -1,8 +1,8 @@
 # Documentation Update
 
-> docs(architecture): update changelog
+> docs(architecture): add troubleshooting guide
 
-Last updated: 2026-01-30T05:00:34.849Z
+Last updated: 2026-01-30T05:03:30.127Z
 
 ## Overview
 
