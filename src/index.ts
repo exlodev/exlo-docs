@@ -1,6 +1,6 @@
 // Auto-generated for demo
-// Commit: test(guides): add contract tests for API
-// Generated: 2026-01-30T05:02:06.409Z
+// Commit: fix(runbooks): handle special characters in search query
+// Generated: 2026-01-30T05:02:10.291Z
 
 export const placeholder = true;
 
