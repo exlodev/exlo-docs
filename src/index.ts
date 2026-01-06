@@ -1,6 +1,6 @@
 // Auto-generated for demo
-// Commit: refactor(api): optimize bundle size by code splitting
-// Generated: 2026-01-30T05:00:16.741Z
+// Commit: fix(guides): handle unicode characters in filenames
+// Generated: 2026-01-30T05:00:20.785Z
 
 export const placeholder = true;
 
