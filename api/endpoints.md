@@ -1,8 +1,8 @@
 # Documentation Update
 
-> docs(api): document environment setup
+> docs(api): add architecture decision record
 
-Last updated: 2026-01-30T04:56:07.281Z
+Last updated: 2026-01-30T04:56:19.205Z
 
 ## Overview
 
