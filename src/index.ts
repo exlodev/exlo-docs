@@ -1,6 +1,6 @@
 // Auto-generated for demo
-// Commit: feat(guides): add search functionality to users page
-// Generated: 2026-01-30T04:58:45.521Z
+// Commit: feat(guides): implement SSO integration
+// Generated: 2026-01-30T04:58:47.502Z
 
 export const placeholder = true;
 
